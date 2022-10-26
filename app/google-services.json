@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "995224750810",
+    "firebase_url": "https://jklfitness-1b22b-default-rtdb.firebaseio.com",
+    "project_id": "jklfitness-1b22b",
+    "storage_bucket": "jklfitness-1b22b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995224750810:android:ef9d9cbf4ec3ff520a33e3",
+        "android_client_info": {
+          "package_name": "com.example.jkl_fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995224750810-bc1o47uasl442j8i4dc84hboilasq4do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePPR5SOsKjK-yuZXc4PGlM9D0hscDY80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995224750810-bc1o47uasl442j8i4dc84hboilasq4do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995224750810:android:857acf4cc437b6bb0a33e3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995224750810-bc1o47uasl442j8i4dc84hboilasq4do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCePPR5SOsKjK-yuZXc4PGlM9D0hscDY80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995224750810-bc1o47uasl442j8i4dc84hboilasq4do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
